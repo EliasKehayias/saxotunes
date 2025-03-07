@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div>git
         <div class="container">
             <div class="laptop-container"> 
           <router-link v-for="p in $store.state.product"  class="products-item">
